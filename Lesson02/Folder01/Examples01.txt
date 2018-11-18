@@ -1,0 +1,15 @@
+1 + 2
+10 - 6
+3 * 4
+
+Division
+3 / 2
+10 / 5
+9 / 4
+
+Brackets
+1 + (2 * 3)
+(1 + 2) * 3
+
+Multiplication before Addition
+1 + 2 * 3
